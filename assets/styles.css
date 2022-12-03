@@ -64,6 +64,52 @@ button {
   display: flex;
   gap: 30px;
 }
+
+.woman-cellphone {
+  padding: 110px 0px;
+}
+
+.woman-cellphone .container {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.woman-cellphone .woman-cellphone-title {
+  font-size: 36px;
+  line-height: 48px;
+  font-weight: 500;
+  color: #091133;
+  margin-bottom: 16px;
+}
+
+.woman-cellphone .woman-cellphone-description {
+  font-weight: 400;
+  font-size: 16;
+  line-height: 26px;
+  color: #6f7cb2;
+  margin-bottom: 80px;
+}
+
+.woman-cellphone .woman-cellphone-features {
+  display: flex;
+  gap: 30px;
+}
+
+.woman-cellphone-features .woman-cellphone-features-title {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  color: #091133;
+}
+
+.woman-cellphone-features .woman-cellphone-features-description {
+  color: #5d6970;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+}
+
 .links {
   display: flex;
   align-items: center;
