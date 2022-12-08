@@ -1,4 +1,4 @@
-# Finance Control
+# Estudo de Caso 02
 
 <img src="./assets/example.gif" alt="Demonstração do projeto sendo executado.">
 
